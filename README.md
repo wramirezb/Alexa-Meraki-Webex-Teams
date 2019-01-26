@@ -10,6 +10,14 @@ User speech -- Amazon Alexa -- AWS Lambda Function (Python Script) -- Meraki Das
 
 Meraki Dashboard -- Built.io/ Webhook (JSON format) -- Built.io/ Post Message on Webex Teams (via APIs)
 
+Resources
+  
+  alexa developer console -- https://developer.amazon.com
+  AWS Lambda Service -- https://console.aws.amazon.com/lambda
+  AWS CloudWatch Service --https://console.aws.amazon.com/cloudwatch
+  Meraki Dashboard API -- https://create.meraki.io/ 
+  Built.io -- https://www.built.io/
+  JSON Formatter -- https://jsonformatter.org/# 
 
 Installation
 
