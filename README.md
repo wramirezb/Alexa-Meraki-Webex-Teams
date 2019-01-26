@@ -2,7 +2,7 @@ Meraki Dashboard Integration with Amazon Alexa
 
 Description
 
-The goal of this project if to highlight the automation and integration capabilities leveraging the APIs within Cisco product portfolio. In this scenario we are integration Meraki Dashboard with Amazon Alexa and Webex Teams via common set of APIs. By leveraging Amazon Alexa’s Natural Language Processing capabilities, we are enabling end users/ the business to perform network configuration changes, gather network status information expressing desired outcome (intent) rather than a network command. In specific, in this project, users can obtain network status, change clients group policies to block and allow access to Internet/ Streaming Video services such as Netflix and YouTube, via Amazon Alexa. In addition, we are also exposing Webex Teams APIs, to post Meraki Dashboards alerts on a Webex Teams room via a Webhook, leveraging Built.io.
+The goal of this project if to highlight the automation and integration capabilities of Cisco product portfolio via its APIs. In this scenario we are integration Meraki Dashboard with Amazon Alexa and Webex Teams via common set of APIs. By leveraging Amazon Alexa’s Natural Language Processing capabilities, we are enabling end users/ the business to perform network configuration changes, gather network status information expressing desired outcome (intent) rather than a network command. In specific, in this project, users can obtain network status, change clients group policies to block and allow access to Internet/ Streaming Video services such as Netflix and YouTube, via Amazon Alexa. In addition, we are also exposing Webex Teams APIs, to post Meraki Dashboards alerts on a Webex Teams room via a Webhook, leveraging Built.io.
 
 Integration Workflows
 
